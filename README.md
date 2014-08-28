@@ -1,5 +1,7 @@
 # ![ScreenShot](https://raw.githubusercontent.com/UPPERCASE-Series/PYCASE/master/LOGO.png)
 
+![ScreenShot](https://raw.githubusercontent.com/UPPERCASE-Series/PYCASE/master/pie.jpg)
+
 PYCASE is a Python backend plus the UPPERCASE.IO middleware.
 It means you can write code on backend in Python.
 
