@@ -5,10 +5,12 @@ from bson.objectid import ObjectId
 import random
 import datetime
 
+# https://github.com/UPPERCASE-Series/UPPERCASE.IO/blob/master/SRC/DB/NODE/CONNECT_TO_DB_SERVER.js
 def CONNECT_TO_DB_SERVER(name, host='127.0.0.1', port=27017, username=None, password=None):
     client = pymongo.MongoClient(host, port)
     CONNECT_TO_DB_SERVER.nativeDB = client[name]
 
+# https://github.com/UPPERCASE-Series/UPPERCASE.IO/blob/master/SRC/DB/NODE/DB.js
 def DB(box):
     class DB(object):
 
