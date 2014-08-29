@@ -1,8 +1,8 @@
 # https://github.com/UPPERCASE-Series/UPPERCASE.IO/blob/master/SRC/BOX/BOX.js
 class BOX(object):
-    def __init__(self, boxName):
-        self.boxName = boxName
-        BOX.boxes[boxName] = self
+    def __init__(self, box_name):
+        self.box_name = box_name
+        BOX.boxes[box_name] = self
 BOX.boxes = {}
 
 # https://github.com/UPPERCASE-Series/UPPERCASE.IO/blob/master/SRC/BOX/FOR_BOX.js
