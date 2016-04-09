@@ -1,4 +1,4 @@
-***이 프로젝트는 [Unicorn](https://github.com/Hanul/Unicorn)으로 통합되었습니다.***
+**이 프로젝트는 개발이 중단되었습니다. [UPPERCASE](https://github.com/Hanul/UPPERCASE)를 사용해주시기 바랍니다.**
 
 # ![ScreenShot](https://raw.githubusercontent.com/UPPERCASE-Series/PYCASE/master/LOGO.png)
 
